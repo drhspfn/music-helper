@@ -1,4 +1,4 @@
-# music-helper | v`1.0.0`
+# music-helper | v`1.0.1`
 
 
 # Installation
